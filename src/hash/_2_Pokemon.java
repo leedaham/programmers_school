@@ -2,6 +2,10 @@ package hash;
 
 import java.util.HashMap;
 
+/**
+ * 폰켓몬
+ * @see <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1845">폰켓몬: 문제 페이지</a>
+ */
 public class _2_Pokemon {
     public int solution(int[] nums) {
         int answer = 0;
