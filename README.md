@@ -14,7 +14,7 @@
 
 ## 스택/큐
 #### 1) 같은 숫자는 싫어
-<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42577">문제</a> /
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/12906">문제</a> /
 <a href="https://github.com/leedaham/programmers_school/blob/master/src/stackandqueue/_1_IDontLikeSameNumbers.java">풀이</a>
 #### 2) 기능개발
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42586">문제</a> /
