@@ -1,5 +1,5 @@
 # 프로그래머스: 코딩테스트 고득점 Kit
-*link: https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit*
+> <a href="https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit">코딩테스트 고득점 Kit 페이지</a>
 
 ## 해시
 #### 1) 완주하지 못한 선수
@@ -28,3 +28,19 @@
 #### 6) 주식 가격
 <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42584">문제</a> /
 <a href="https://github.com/leedaham/programmers_school/blob/master/src/stackandqueue/_6_StockPrice.java">풀이</a>
+
+## 힙
+#### 3) 같은 숫자는 싫어
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42628">문제</a> /
+<a href="https://github.com/leedaham/programmers_school/blob/master/src/heap/_3_DoublePriorityQueue.java">풀이</a>
+
+## 정렬
+#### 1) K번째 수
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42748">문제</a> /
+<a href="https://github.com/leedaham/programmers_school/blob/master/src/sort/_1_KthNumber.java">풀이</a>
+#### 2) 가장 큰 수
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42746">문제</a> /
+<a href="https://github.com/leedaham/programmers_school/blob/master/src/sort/_2_BiggestNumber.java">풀이</a>
+#### 3) H-Index
+<a href="https://school.programmers.co.kr/learn/courses/30/lessons/42747">문제</a> /
+<a href="https://github.com/leedaham/programmers_school/blob/master/src/sort/_3_HIndex.java">풀이</a>
